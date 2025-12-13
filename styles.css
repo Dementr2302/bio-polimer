@@ -1,4 +1,4 @@
-chip/* ====== Base ====== */
+/* ====== Base ====== */
 :root{
   --bg-dark-1:#050b1e;
   --bg-dark-2:#06184a;
@@ -402,6 +402,4 @@ margin-top: 12px;
   .cards{
     grid-template-columns: 1fr 1fr;
   }
-
 }
-
